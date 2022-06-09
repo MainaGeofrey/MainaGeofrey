@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MainaGeofrey
-- 👀 I’m interested in artificial intelligence, machine learning.(software needs to be intelligent) 
+- 👀 I’m interested in artificial intelligence, machine learning and backend web develpment using python
 - 🌱 I’m currently learning deep learning using python , Django framework and JavaScript 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me mainageofrey731@gmail.com 
 
 <!---
