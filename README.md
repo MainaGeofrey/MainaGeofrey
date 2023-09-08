@@ -1,6 +1,6 @@
 # Hello, I'm Geofrey Maina! 👋
 
-Passionate about crafting exceptional web experiences, solving complex challenges, and delivering practical and reliable solutions through code."
+I am passionate about crafting exceptional web experiences, solving complex challenges, and delivering practical and reliable solutions through code."
 
 ## About Me
 
