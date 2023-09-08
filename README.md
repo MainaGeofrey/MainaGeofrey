@@ -1,20 +1,18 @@
 # Hello, I'm Geofrey Maina! 👋
 
-I'm a dedicated full-stack developer with a strong interest in AI, machine learning, and backend web development using Python.
+Passionate about crafting exceptional web experiences, solving complex challenges, and delivering practical and reliable solutions through code."
 
 ## About Me
 
 - 💻 Currently, I'm working on full-stack development projects, including Vue.js, Nuxt.js, React, Next.js on the front end, and Python for the backend. I'm also experienced with PHP, MySQL, and PostgreSQL.
-- 💼 I'm always eager to collaborate on exciting Python projects.
+- 💼 I'm always eager to collaborate.
 - 📫 You can easily reach me at [mainageofrey731@gmail.com](mailto:mainageofrey731@gmail.com).
 
 ## Skills and Interests
 
 Here are some of the skills and interests that define me:
 
-- **Artificial Intelligence**
-- **Machine Learning**
-- **Backend Development**
+- **FullStack Development**
 - **Python**
 - **JavaScript**
 - **Vue.js**
@@ -24,6 +22,9 @@ Here are some of the skills and interests that define me:
 - **Laravel**
 - **MySQL**
 - **PostgreSQL**
+
+- **Artificial Intelligence**
+- **Machine Learning**
 
 I'm passionate about continuous learning and exploring new technologies. Let's connect and work on amazing projects together!
 
