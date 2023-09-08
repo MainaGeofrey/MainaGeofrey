@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MainaGeofrey&theme=algolia&show_icons=true&count_private=true" alt="MainaGeofrey" />
-![Sammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=MainaGeofrey&show_icons=true&theme=radical)
+![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=MainaGeofrey&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MainaGeofrey&layout=compact)](https://github.com/MainaGeofrey/github-readme-stats)
