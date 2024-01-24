@@ -20,7 +20,7 @@ Here are some of the skills and interests that define me:
 - **React**
 - **PHP**
 - **Laravel**
-- - **CodeIgiter**
+- **CodeIgiter**
 - **MySQL**
 - **PostgreSQL**
 
