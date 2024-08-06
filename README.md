@@ -34,10 +34,7 @@ I'm passionate about continuous learning and exploring new technologies. Let's c
 
 ## GitHub Stats
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MainaGeofrey&theme=algolia&show_icons=true&count_private=true" alt="MainaGeofrey" />
 
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MainaGeofrey&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MainaGeofrey&theme=dark)](https://github.com/MainaGeofrey)
 
 
