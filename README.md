@@ -39,4 +39,5 @@ I'm passionate about continuous learning and exploring new technologies. Let's c
 <!-- Add devicons stylesheet -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YourUsername&theme=dark)](https://git.io/streak-stats)
 
