@@ -14,6 +14,8 @@ Here are some of the skills and interests that define me:
 
 - **FullStack Development**
 - **Python**
+- - **NodeJS**
+- **Golang**
 - **JavaScript**
 - **Vue.js**
 - **Nuxt.js**
@@ -23,9 +25,10 @@ Here are some of the skills and interests that define me:
 - **CodeIgiter**
 - **MySQL**
 - **PostgreSQL**
-
-- **Artificial Intelligence**
-- **Machine Learning**
+- **MongoDB**
+- **Redis**
+- **RabbutMQ**
+- - **CodeIgiter**
 
 I'm passionate about continuous learning and exploring new technologies. Let's connect and work on amazing projects together!
 
