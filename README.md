@@ -28,7 +28,7 @@ Here are some of the skills and interests that define me:
 - **MongoDB**
 - **Redis**
 - **RabbutMQ**
-- - **CodeIgiter**
+- **CodeIgiter**
 
 I'm passionate about continuous learning and exploring new technologies. Let's connect and work on amazing projects together!
 
